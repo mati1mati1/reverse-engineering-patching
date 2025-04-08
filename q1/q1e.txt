@@ -1,0 +1,3 @@
+i change the mov eax,1 that after the put "invalid message"
+to mov eax,0
+and by that all case will return 0

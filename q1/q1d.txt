@@ -1,0 +1,2 @@
+i change the addrss that call validatiom to mov eax,1 so by that all the message will be 1 and the 
+msgcheck will print valid

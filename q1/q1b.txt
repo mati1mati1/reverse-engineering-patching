@@ -1,0 +1,1 @@
+i change the target value to be the calculate xor

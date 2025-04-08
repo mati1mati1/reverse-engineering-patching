@@ -1,0 +1,8 @@
+in Patch1 i only jmp to the start of the bigger deadzone 
+right after the first commande that i will put there
+and in the Patch2 i am  in the first commande jmp over the deadzoon so it will skip the patch when it not in the flow
+and after i load the first byte and compare it to # and if it not equals jmp back to the orignal flow
+and if it equals i compare the second byte to ! and if it not equals also jmp to the original flow
+and i the first byte  = # and the second byte = ! I push the line  and call the method that call 
+_system this this line
+and then return after the printf 

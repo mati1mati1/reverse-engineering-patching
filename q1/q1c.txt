@@ -1,0 +1,1 @@
+i change the first byte to 0 and the second to 0x12 so by that the validation will do 0 step and will return the 0x12 == 0x12 and it allways be trun so valid

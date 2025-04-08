@@ -1,0 +1,4 @@
+the program gets a binary file and make xor to 0x12 to the x first+2 byte
+when x is the first byte in the file and then return valid is the calculated value equals to the second byte in the file
+so i open the file and read is first 2 byte and then go over the first+2 x byte and make xor
+and if the value equals to the secode file byte i return valid else return invalid
